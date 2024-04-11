@@ -12,9 +12,11 @@ Currently, two official plugins are available:
 
 # Netflix GPT
 
-- create react app
+- create react app vite
 - configured tailwind css
-
+- Header
+- Login Form
+- Sign Up Form
 
 
 
